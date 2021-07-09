@@ -51,7 +51,8 @@ Hasilnya :
 
 ![image](https://user-images.githubusercontent.com/81596251/124400226-1801f800-dd4b-11eb-9343-4700f090da0c.png)
 ![image](https://user-images.githubusercontent.com/81596251/125119729-b57a7480-e11b-11eb-8e71-77b81de5c8ea.png)
-![image](https://user-images.githubusercontent.com/81596251/125119877-e22e8c00-e11b-11eb-8528-fde241784497.png)
+![image](https://user-images.githubusercontent.com/81596251/125120878-50c01980-e11d-11eb-80f8-314d6a7bc687.png)
+
 
 backup otomatis setiap hari minggu jam 12 malam:
 
