@@ -45,11 +45,15 @@ Hasilnya :
 *__Perintah Backup__*
 
 ![image](https://user-images.githubusercontent.com/81596251/124400201-e8eb8680-dd4a-11eb-8ed7-49712c0de4f3.png)
+![image](https://user-images.githubusercontent.com/81596251/125118304-b9a59280-e119-11eb-879c-964518fb0634.png)
 
 *__Perintah Restore__*
 
 ![image](https://user-images.githubusercontent.com/81596251/124400226-1801f800-dd4b-11eb-9343-4700f090da0c.png)
 
+backup otomatis setiap hari minggu jam 12 malam:
+
+![image](https://user-images.githubusercontent.com/81596251/125119494-5ddc0900-e11b-11eb-8eab-d506c0907a8f.png)
 
 
 
